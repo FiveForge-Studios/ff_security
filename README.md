@@ -1,4 +1,4 @@
-### 📷 [LX Security] 📷
+### 📷 [LX Security] - Support will only be provided in our Discord below.
 
 [![Discord](https://i.gyazo.com/thumb/1200/0d6e0d0855dc4a9c1210b2009b51c14a-png.jpg)](https://discord.gg/hPcvqtr)
 <hr>
