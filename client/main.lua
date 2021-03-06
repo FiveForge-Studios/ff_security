@@ -9,7 +9,7 @@ AddEventHandler("onClientResourceStart", function(resourceName) -- When the reso
 			TriggerServerEvent("LX_Security_Server:GetPermissions")
 		end
 		
-		Utils.Notification("[~y~LX Security Loaded~w~]\n\nCreated By ~g~Luceefer#9955~w~!")
+		Utils.Notification("[~y~LX Security Loaded~w~]\n\nCreated By ~g~akaLucifer#0103~w~!")
 	end
 end)
 
@@ -20,7 +20,7 @@ AddEventHandler("playerSpawned", function() -- When you first spawn in, run this
 		end
 
 		firstSpawn = true
-		Utils.Notification("[~y~LX Security Loaded~w~]\n\nCreated By ~g~Luceefer#9955~w~!")
+		Utils.Notification("[~y~LX Security Loaded~w~]\n\nCreated By ~g~akaLucifer#0103~w~!")
 	end
 end)
 
