@@ -5,8 +5,8 @@ game "gta5"
 -- Resource Information
 description "A security system to help you monitor all criminal activity in your server."
 version "v1.0.0"
-author "akaLucifer#0103"
-url "https://github.com/aka-lucifer/lx_security"
+author "akaLucifer."
+url "https://github.com/aka-lucifer/ff_security"
 
 -- Resource Data
 shared_script"shared/shared.lua"

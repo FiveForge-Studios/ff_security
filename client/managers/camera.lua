@@ -9,7 +9,7 @@ RegisterCommand("cctv", function(source, args, raw)
 	local ped = PlayerPedId()
 	if Utils.HasPermission() then
 		AddedLocations = {}
-		local CameraMenu = xMenu.New("LX Security")
+		local CameraMenu = xMenu.New("FF Security")
 		local GenStoreMenu = CameraMenu:BindSubMenu("General Stores")
 		local EntertainmentMenu = CameraMenu:BindSubMenu("Entertainment")
 		local BankMenu = CameraMenu:BindSubMenu("Banks")
@@ -96,7 +96,7 @@ RegisterCommand("cctv", function(source, args, raw)
 		CameraMenu:OpenMenu()
 	else
 		if CCTV_Config.ShowNoPerms then
-			Utils.Notification("[~y~LX Security~w~]\n\n~r~You don't have permission to do this")
+			Utils.Notification("[~y~FF Security~w~]\n\n~r~You don't have permission to do this")
 		end
 	end
 end)
