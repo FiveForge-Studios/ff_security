@@ -1,4 +1,4 @@
-### 📷 [FF Security] - Support will only be provided in our <a href="https://discord.gg/hPcvqtr">Discord</a>.
+### 📷 [FF Security] - Support will only be provided in our <a href="https://discord.gg/kp5C6J47vj">Discord</a>.
 <hr>
 
 **LICENSE:** [Please read the license before using this.]
